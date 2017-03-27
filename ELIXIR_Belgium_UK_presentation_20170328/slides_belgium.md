@@ -200,7 +200,7 @@ ELIXIR Belgium will run an Innovation and SME Forum in 2017, focused on the them
 | Event                      | Organised By  | Scheduled     |
 | -------------------------- | ------------- | ------------- |
 | <span style='font-size:50%'>Breeding API BYOD</span>  | <span style='font-size:50%'>ELIXIR Belgium & The Netherlands</span> | <span style='font-size:50%'>May-June 30-1 2017</span> |
-| <span style='font-size:50%'>Functional Plant Bioinformatics: using PLAZA to get more out of your plant omics data </span> | <span style='font-size:50%'>ELIXIR Belgium & VIB Bioinformatics Core</span> | <span style='font-size:60%'>September 14-15 2017</span> |
+| <span style='font-size:50%'>Functional Plant Bioinformatics: using PLAZA to get more out of your plant omics data </span> | <span style='font-size:50%'>ELIXIR Belgium & VIB Bioinformatics Core</span> | <span style='font-size:50%'>September 14-15 2017</span> |
 | <span style='font-size:50%'>Data Carpentry</span> | <span style='font-size:50%'>ELIXIR Belgium & VIB Bioinformatics Core</span> | <span style='font-size:50%'>November 2017</span> |
 | <span style='font-size:50%'>Python as a second language</span>  | <span style='font-size:50%'>ELIXIR Belgium & VSC, UHasselt, UAntwerpen</span> | <span style='font-size:50%'>Q2 2017</span> |
 | <span style='font-size:50%'>Programming Python</span>  | <span style='font-size:50%'>ELIXIR Belgium & UNamur</span> | <span style='font-size:50%'>Q4 2017</span> |
