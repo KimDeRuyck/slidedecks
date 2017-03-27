@@ -1,4 +1,4 @@
-
+﻿
 # Some recent history ...
 
 ---Section---
@@ -199,11 +199,11 @@ ELIXIR Belgium will run an Innovation and SME Forum in 2017, focused on the them
 
 | Event                      | Organised By  | Scheduled     |
 | -------------------------- | ------------- | ------------- |
-| <span style='font-size:60%'>Breeding API BYOD</span>  | <span style='font-size:60%'>ELIXIR Belgium & The Netherlands</span> | <span style='font-size:60%'>30 May 2017</span> |
-| <span style='font-size:60%'>Node services: PLAZA</span> | <span style='font-size:60%'>VIB Bioinformatics Core</span> | <span style='font-size:60%'>May 2017</span> |
-| <span style='font-size:60%'>Data Carpentry</span> | <span style='font-size:60%'>VIB Bioinformatics Core</span> | <span style='font-size:60%'>November 2017</span> |
-| <span style='font-size:60%'>Python as a second language</span>  | <span style='font-size:60%'>VSC, UHasselt, Uantwerpen</span> | <span style='font-size:60%'>Q2 2017</span> |
-| <span style='font-size:60%'>Programming Python</span>  | <span style='font-size:60%'>Jean-Marie Jacquet (UNamur)</span> | <span style='font-size:60%'>Q4 2017</span> |
+| <span style='font-size:60%'>Breeding API BYOD</span>  | <span style='font-size:60%'>ELIXIR Belgium & The Netherlands</span> | <span style='font-size:60%'>May-June 30-1 2017 2017</span> |
+| <span style='font-size:60%'>Functional Plant Bioinformatics: using PLAZA to get more out of your plant omics data </span> | <span style='font-size:60%'>ELIXIR Belgium & VIB Bioinformatics Core</span> | <span style='font-size:60%'>September 14-15 2017</span> |
+| <span style='font-size:60%'>Data Carpentry</span> | <span style='font-size:60%'>ELIXIR Belgium & VIB Bioinformatics Core</span> | <span style='font-size:60%'>November 2017</span> |
+| <span style='font-size:60%'>Python as a second language</span>  | <span style='font-size:60%'>ELIXIR Belgium & VSC, UHasselt, UAntwerpen</span> | <span style='font-size:60%'>Q2 2017</span> |
+| <span style='font-size:60%'>Programming Python</span>  | <span style='font-size:60%'>ELIXIR Belgium & UNamur</span> | <span style='font-size:60%'>Q4 2017</span> |
 
 Note:
 FAIR data

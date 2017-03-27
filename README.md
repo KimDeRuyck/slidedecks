@@ -1,6 +1,6 @@
 # slidedecks
 
-Slides by Frederik Coppens
+Slides by Kim De Ruyck
 
 * [ELIXIR Belgium launch](ELIXIR_Belgium_launch_20170209)
 * [ELIXIR UK presentation Belgium](ELIXIR_Belgium_UK_presentation_20170328)
